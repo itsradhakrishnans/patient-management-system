@@ -1,0 +1,5 @@
+sqlalchemy
+fastapi
+jwt
+python-jose
+uvicorn
